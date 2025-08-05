@@ -1,7 +1,7 @@
 # 🧬 Viniero Token – Whitepaper
 
 **Version:** 0.1 – Pre-ICO  
-**Founder:** Francesco Vito Giotta  
+**Founder:** Francesco Vito Giotta  | LemonPower21
 **Blockchain:** Solana  
 **Total Supply:** 10,000,000 VNRO  
 **Mission:** Accelerate blockchain adoption through experimentation, education, and decentralized innovation <br>
