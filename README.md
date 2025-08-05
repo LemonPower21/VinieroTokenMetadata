@@ -72,5 +72,4 @@ Viniero Token is currently in its **pre-ICO phase** and does not constitute a re
 
 ## 🌐 Closing Statement
 
-Viniero is not just a token—it’s a playground for decentralized ideas. Whether you're a developer, a thinker, or a crypto-curious explorer, Viniero invites you to build, learn, and shape the future of blockchain from the ground up.
-
+Viniero is not just a token—it’s a playground for decentralized ideas!
