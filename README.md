@@ -36,25 +36,12 @@ Viniero leverages Solana’s speed and scalability to enable real-time interacti
 
 ---
 
-## 📊 Tokenomics
-
-| Allocation            | Percentage |
-|-----------------------|------------|
-| Founder               | 15%        |
-| Community Airdrop     | 25%        |
-| Developer Grants      | 30%        |
-| Reserve               | 20%        |
-| DAO Treasury          | 10%        |
-
----
-
 ## 📅 Roadmap
 
 - **Q3 2025:** Whitepaper release, GitHub repo launch  
 - **Q4 2025:** Pre-ICO, community onboarding  
 - **Q1 2026:** DAO formation and first grant cycle  
-- **Q2 2026:** Launch of Viniero Labs – a sandbox for blockchain experiments  
-- **Q3 2026:** Educational partnerships and hackathons
+- **Q2 2026:** Educational partnerships
 
 ---
 
@@ -66,13 +53,13 @@ Viniero leverages Solana’s speed and scalability to enable real-time interacti
 
 ## 💰 Pre-ICO Fund Allocation
 
-| Category              | Percentage |
+| Allocation            | Percentage |
 |-----------------------|------------|
-| Technical Development | 40%        |
-| Community Growth      | 20%        |
-| Grants & Bounties     | 20%        |
-| Legal & Compliance    | 10%        |
-| Operational Reserve   | 10%        |
+| Founder               | 25%        |
+| Community Airdrop     | 20%        |
+| Developer Grants </>  | 25%        |
+| DEX Liquidity         | 20%        |
+| DAO Treasury          | 10%        |
 
 ---
 
