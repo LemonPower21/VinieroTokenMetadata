@@ -4,7 +4,7 @@
 **Founder:** Francesco Vito Giotta  
 **Blockchain:** Solana  
 **Total Supply:** 10,000,000 VNRO  
-**Mission:** Accelerate blockchain adoption through experimentation, education, and decentralized innovation   \n
+**Mission:** Accelerate blockchain adoption through experimentation, education, and decentralized innovation <br>
 **Transactions:** https://explorer.solana.com/address/mntbAsBUEzJ3ooer5BuftPRsrQ7kTdzEBConW4JGkkN?cluster=devnet
 
 ---
